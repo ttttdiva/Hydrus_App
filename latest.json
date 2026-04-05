@@ -1,8 +1,1 @@
-{
-  "mobile": {
-    "version": "0.3.3",
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.3.3/hydrus-app.apk",
-    "notes": "v0.3.3 リリース",
-    "date": "2026-04-06"
-  }
-}
+{"mobile":{"version":"0.4.0","url":"https://github.com/ttttdiva/Hydrus_App/releases/download/v0.4.0/hydrus-app.apk","notes":"v0.4.0: タグ編集機能追加","date":"2026-04-06"}}
