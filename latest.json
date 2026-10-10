@@ -1,8 +1,8 @@
 {
   "mobile": {
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.9/hydrus-app.apk",
-    "notes": "作品取り込みを設定へ移動。接続設定とKeyを保持し、自宅・外部経路のHydrus起動と詳細ログに対応。",
-    "version": "0.8.9",
-    "date": "2026-10-04"
+    "version": "0.8.10",
+    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.10/hydrus-app.apk",
+    "notes": "文章・画像・混合による意味検索と画像インデックスの中断・再開に対応",
+    "date": "2026-10-10"
   }
 }
