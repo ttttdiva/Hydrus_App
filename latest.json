@@ -1,8 +1,8 @@
 {
   "mobile": {
-    "version": "0.8.10",
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.10/hydrus-app.apk",
-    "notes": "文章・画像・混合による意味検索と画像インデックスの中断・再開に対応",
-    "date": "2026-10-10"
+    "version": "0.8.11",
+    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.11/hydrus-app.apk",
+    "notes": "Portal/Gateway認証、verified HTTPS App Link callback、LAN SSID/手動DDNSの接続互換性を追加。Portal解除時は接続方式とHydrus Access Keyを保持し、Gateway認証だけを解除します。",
+    "date": "2026-10-11"
   }
 }
