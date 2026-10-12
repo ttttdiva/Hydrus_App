@@ -1,8 +1,8 @@
 {
   "mobile": {
-    "version": "0.8.13",
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.13/hydrus-app.apk",
-    "notes": "Portalオンデマンド認証、PCBridge、画像表示を更新",
-    "date": "2026-10-12"
+    "version": "0.8.14",
+    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.14/hydrus-app.apk",
+    "notes": "ポータル認証・初回サムネイル接続・動画タップ操作を改善",
+    "date": "2026-10-13"
   }
 }
