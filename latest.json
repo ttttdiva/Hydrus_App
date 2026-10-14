@@ -1,8 +1,10 @@
 {
   "mobile": {
-    "version": "0.8.18",
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.18/hydrus-app.apk",
-    "notes": "接続設定をホーム／インターネットへ統合。保存の整合性と任意のLAN API入口を改善。",
-    "date": "2026-10-14"
+    "version": "0.8.19",
+    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.19/hydrus-app.apk",
+    "notes": "保存済み接続設定の入力・保存を修正し、URL・SSIDと認証方式を自動で引き継ぎます。補足説明を「？」へ集約し、設定画面上部の表示を修正しました。",
+    "date": "2026-10-14",
+    "versionCode": 20,
+    "sha256": "09adbd376a76a5f2c5a64da405dd9c27b0590928a1fef45e630d0af415a08189"
   }
 }
