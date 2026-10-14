@@ -1,8 +1,8 @@
 {
   "mobile": {
-    "version": "0.8.16",
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.16/hydrus-app.apk",
-    "notes": "画像ビューアの連続移動・取消・timeout・cacheと失敗復旧を改善",
-    "date": "2026-10-13"
+    "version": "0.8.17",
+    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.17/hydrus-app.apk",
+    "notes": "RoutingとPortal経由のPC作品取り込み先・認証処理を修正",
+    "date": "2026-10-14"
   }
 }
