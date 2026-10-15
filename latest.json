@@ -1,10 +1,10 @@
 {
   "mobile": {
-    "version": "0.8.19",
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.19/hydrus-app.apk",
-    "notes": "保存済み接続設定の入力・保存を修正し、URL・SSIDと認証方式を自動で引き継ぎます。補足説明を「？」へ集約し、設定画面上部の表示を修正しました。",
-    "date": "2026-10-14",
-    "versionCode": 20,
-    "sha256": "09adbd376a76a5f2c5a64da405dd9c27b0590928a1fef45e630d0af415a08189"
+    "version": "0.8.20",
+    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.20/hydrus-app.apk",
+    "notes": "SSIDと回線表示をホーム編集時だけに整理。ホーム設定を保持してインターネットのURL指定・ポータルを編集できます。ポータルの重複表示を削除し、確認済みホーム接続を57 LAN入口へ引き継ぎます。",
+    "date": "2026-10-15",
+    "versionCode": 21,
+    "sha256": "7944e62e67666aba1c5a79fcdeef023512ad8c657a209cf1fc43a00d8db46787"
   }
 }
