@@ -1,10 +1,10 @@
 {
   "mobile": {
-    "version": "0.8.25",
-    "url": "https://github.com/ttttdiva/57_Hydrus_App/releases/download/v0.8.25/hydrus-app.apk",
-    "notes": "作品取り込みから開いた画像は、戻ると入力と取り込み結果を保持します。ビューアはスワイプ中から隣の画像を表示し、評価やアーカイブの更新は隣へ移って戻っても残ります。",
+    "version": "0.8.26",
+    "url": "https://github.com/ttttdiva/57_Hydrus_App/releases/download/v0.8.26/hydrus-app.apk",
+    "notes": "作品取り込みの接続確認が一時的に失敗しても、3秒ごとに再確認して実行できるように戻します。未対応と確定した場合は理由を残して無効のままです。設定から認証情報を消すボタンを外しました。",
     "date": "2026-10-17",
-    "versionCode": 26,
-    "sha256": "202537bcf11351e0deecf7224d2e2f5d622a0738b4d363e3648f5b647f8fd877"
+    "versionCode": 27,
+    "sha256": "653d6c3319e59cbe16907c5b90dd7e7a8aa2d5d3ed25a59be379eb5b73286c21"
   }
 }
