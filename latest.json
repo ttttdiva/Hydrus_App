@@ -1,10 +1,10 @@
 {
   "mobile": {
-    "version": "0.8.21",
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.21/hydrus-app.apk",
-    "notes": "通常画像接続を保持し、意味検索・作品取込の追加機能を明示保存済みの57 URL・ポータルへ正しい認証方式で接続します。対応先が未設定の場合は必要な設定を案内します。",
-    "date": "2026-10-16",
-    "versionCode": 22,
-    "sha256": "25f9be4c0aaf8d9b6c4e0e803efec527b7ac819a43eb50e6598919cd1cd59aa1"
+    "version": "0.8.25",
+    "url": "https://github.com/ttttdiva/57_Hydrus_App/releases/download/v0.8.25/hydrus-app.apk",
+    "notes": "作品取り込みから開いた画像は、戻ると入力と取り込み結果を保持します。ビューアはスワイプ中から隣の画像を表示し、評価やアーカイブの更新は隣へ移って戻っても残ります。",
+    "date": "2026-10-17",
+    "versionCode": 26,
+    "sha256": "202537bcf11351e0deecf7224d2e2f5d622a0738b4d363e3648f5b647f8fd877"
   }
 }
