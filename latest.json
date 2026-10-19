@@ -1,11 +1,11 @@
 {
   "mobile": {
-    "size": 77685343,
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.28/hydrus-app.apk",
+    "size": 77685355,
+    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.29/hydrus-app.apk",
     "date": "2026-10-19",
-    "version": "0.8.28",
-    "versionCode": 29,
-    "sha256": "cb003718b5e3e250e1b6ba97484d97d9fd6d10445c12a3bef149b7c903663e7a",
-    "notes": "意味検索の起動待機時間を最大100秒に延長し、PC側準備中表示を追加しました。人間実機QAは未実施です。"
+    "version": "0.8.29",
+    "versionCode": 30,
+    "sha256": "4b159002ad3eafa71687996215aa5484f7906c70780f5a3babe44fc93b7f5bf1",
+    "notes": "ギャラリーで検索条件を編集した後も、Androidの戻る操作で直前のギャラリーへ戻れるよう修正しました。"
   }
 }
