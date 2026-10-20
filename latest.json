@@ -1,11 +1,11 @@
 {
   "mobile": {
-    "size": 77685355,
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.29/hydrus-app.apk",
-    "date": "2026-10-19",
-    "version": "0.8.29",
-    "versionCode": 30,
-    "sha256": "4b159002ad3eafa71687996215aa5484f7906c70780f5a3babe44fc93b7f5bf1",
-    "notes": "ギャラリーで検索条件を編集した後も、Androidの戻る操作で直前のギャラリーへ戻れるよう修正しました。"
+    "size": 77691315,
+    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.31/hydrus-app.apk",
+    "date": "2026-10-21",
+    "version": "0.8.31",
+    "versionCode": 32,
+    "sha256": "87e0710fc5568431e4a4a789d2d18d0aed817ac1e3b2c48a695b5a72847afdee",
+    "notes": "作品取り込みの表示先を最新の実行結果に限定し、非空入力から実行できるまでの待ちを減らしました。検索タグ入力の自動大文字化を無効化しました。"
   }
 }
