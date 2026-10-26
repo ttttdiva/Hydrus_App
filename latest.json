@@ -1,11 +1,11 @@
 {
   "mobile": {
-    "size": 77697527,
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.32/hydrus-app.apk",
-    "date": "2026-10-22",
-    "version": "0.8.32",
-    "versionCode": 33,
-    "sha256": "a59cabf693bbfc8cb68df2ff70d7058cb4f01db5fe1732cccefb2adaa3bb4134",
-    "notes": "保存済みの検索タブを読み取り失敗時にも失われないよう保護し、ズーム中の1本指操作は画像内の移動に限定しました。画像キャッシュの再試行・容量圧迫・先読み昇格とサムネイル保持の管理を改善しました。"
+    "size": 77707667,
+    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.36/hydrus-app.apk",
+    "date": "2026-10-26",
+    "version": "0.8.36",
+    "versionCode": 37,
+    "sha256": "7ae01338b3ce970907e4e0a6f0007b09746552cb2ec9e1117f57f08e724b9abd",
+    "notes": "タグ検索失敗時に原因に応じた案内を表示し、処理中の重複検索を抑制します。"
   }
 }
