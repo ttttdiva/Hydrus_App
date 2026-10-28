@@ -1,11 +1,11 @@
 {
   "mobile": {
-    "size": 77707667,
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.36/hydrus-app.apk",
-    "date": "2026-10-26",
-    "version": "0.8.36",
-    "versionCode": 37,
-    "sha256": "7ae01338b3ce970907e4e0a6f0007b09746552cb2ec9e1117f57f08e724b9abd",
-    "notes": "タグ検索失敗時に原因に応じた案内を表示し、処理中の重複検索を抑制します。"
+    "size": 77708407,
+    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.37/hydrus-app.apk",
+    "date": "2026-10-28",
+    "version": "0.8.37",
+    "versionCode": 38,
+    "sha256": "bb2347ce3eacd5d34587eba9c6b7acf8c94f82d146399a36721cb0c17009bfa0",
+    "notes": "モバイルviewerの画像表示領域を親viewportに合わせ、下部ナビゲーションによる画像下端の見切れを修正しました。"
   }
 }
