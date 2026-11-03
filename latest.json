@@ -1,11 +1,8 @@
 {
-  "mobile": {
-    "size": 77708407,
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.37/hydrus-app.apk",
-    "date": "2026-10-28",
-    "version": "0.8.37",
-    "versionCode": 38,
-    "sha256": "bb2347ce3eacd5d34587eba9c6b7acf8c94f82d146399a36721cb0c17009bfa0",
-    "notes": "モバイルviewerの画像表示領域を親viewportに合わせ、下部ナビゲーションによる画像下端の見切れを修正しました。"
-  }
+    "mobile":  {
+                   "date":  "2026-11-03",
+                   "url":  "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.38/hydrus-app.apk",
+                   "version":  "0.8.38",
+                   "notes":  "v0.8.38 release"
+               }
 }
