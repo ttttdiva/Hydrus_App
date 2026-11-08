@@ -1,8 +1,8 @@
 {
   "mobile": {
-    "date": "2026-11-07",
-    "notes": "v0.8.44 release",
-    "version": "0.8.44",
-    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.44/hydrus-app.apk"
+    "date": "2026-11-08",
+    "notes": "X/Twitterのユーザー名の大小文字差で取込済み画像を表示できない問題を修正",
+    "version": "0.8.45",
+    "url": "https://github.com/ttttdiva/Hydrus_App/releases/download/v0.8.45/hydrus-app.apk"
   }
 }
